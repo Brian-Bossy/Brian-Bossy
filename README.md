@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source projects**
 
-- 👨‍💻 All of my projects are available at [https://brian-bossy-website.onrender.com/#](https://brian-bossy.github.io/my-portfolio-website/)
+- 👨‍💻 All of my projects are available at [My Github Profile](https://github.com/Brian-Bossy)
 
 - 💬 Ask me about **HTML,CSS,JAVASCRIPT,BOOTSTRAP,JQUERY,SASS**
 
