@@ -1,11 +1,11 @@
 
 <img align="left" src="![brian-i](https://github.com/Brian-Bossy/Brian-Bossy/assets/73931581/cd5d9726-b754-41eb-a21a-ee9aba41dae4)" />
 <h1 align="center">Hi 👋, I'm Brian Bossy Ondieki</h1>
-<h3 align="center">A frontend Web Developer from Kenya</h3>
+<h3 align="center">A Software Developer from Kenya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brian-bossy&label=Profile%20views&color=0e75b6&style=flat" alt="brian-bossy" /> </p>
 
-- 🔭 I’m currently working on [JavaScript Weather App](https://weather-web-app-8uga.onrender.com/)
+- 🔭 I’m currently working on [MERN E-COMMERCE PROJECT](https://weather-web-app-8uga.onrender.com/)
 
 - 🌱 I’m currently learning **ReactJS on FreeCodeCamp**
 
