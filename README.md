@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brian-bossy&label=Profile%20views&color=0e75b6&style=flat" alt="brian-bossy" /> </p>
 
-- 🔭 I’m currently working on [MERN E-COMMERCE PROJECT](https://weather-web-app-8uga.onrender.com/)
+- 🔭 I’m currently working on [MERN STORAGE APP](https://weather-web-app-8uga.onrender.com/)
 
 - 🌱 I’m currently learning **ReactJS on FreeCodeCamp**
 
@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [My Github Profile](https://github.com/Brian-Bossy)
 
-- 💬 Ask me about **HTML,CSS,JAVASCRIPT,BOOTSTRAP,JQUERY,SASS**
+- 💬 Ask me about **HTML,CSS,JAVASCRIPT,ReactJS,BOOTSTRAP,JQUERY,SASS**
 
 - 📫 How to reach me **Brianbossy254@gmail.com**
 
