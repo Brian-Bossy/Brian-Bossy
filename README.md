@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brian-bossy&label=Profile%20views&color=0e75b6&style=flat" alt="brian-bossy" /> </p>
 
-- 🔭 I’m currently working on [MERN CODE CAFE](https://weather-web-app-8uga.onrender.com/)
+- 🔭 I’m currently working on [MERN CODE CAFE](https://github.com/Brian-Bossy/Code-Cafe-Frontend)
 
 - 🌱 I’m currently learning **ReactJS on FreeCodeCamp**
 
